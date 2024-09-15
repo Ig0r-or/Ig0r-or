@@ -7,8 +7,8 @@ Criei essa pagina com por interesse profissional e social.
  ## Estudos 
 <div style="display: flex;">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="120px" width="120px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="120px" width="120px"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="120px" width="120px"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="120px" width="120px"/>
 </div>
 
 
