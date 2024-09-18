@@ -22,7 +22,7 @@ Criei essa pagina com por interesse profissional e social.
 </div>
 
 ## Social
- [<img src='https://github.com/wle8300/instagram-logo/blob/master/logo.svg' alt='instagram' height='40'>](https://www.instagram.com/ig0r_or/)  
+ [<img src='https://github.com/wle8300/instagram-logo/blob/master/logo.svg' alt='instagram' height='100px'>](https://www.instagram.com/ig0r_or/)  
  
 ## Estatísticas
 <a href="https://github.com/Ig0r-or">
