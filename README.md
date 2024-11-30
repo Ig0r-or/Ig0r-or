@@ -2,7 +2,9 @@
 #### Sou um entusiasta, desenvolvedor.
 ![Sou um entusiasta, desenvolvedor.](https://i.pinimg.com/736x/97/63/ab/9763ab0a9150039da17fc0461faab106.jpg)
 
-Criei essa pagina com por interesse profissional e social.
+Me chamo Igor, natural de Pouso Alegre, Minas Gerais, tenho atualmente 19 anos e estou cursando Sistemas de Informação pela Univas e estagiando do Instituto Federal do Sul de Minas!
+
+#### Abaixo, veja mais sobre mim e meu projetos, além de minhas linguagens favoritas!
 
  ## Estudos 
 <div style="display: flex;">
