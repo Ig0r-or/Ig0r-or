@@ -25,7 +25,7 @@ Me chamo Igor, natural de Pouso Alegre, Minas Gerais, tenho atualmente 19 anos e
 </div>
 
 ## Social
- [<img src='https://github.com/wle8300/instagram-logo/blob/master/logo.svg' alt='instagram' height='75px'>](https://www.instagram.com/ig0r_or/)  
+ [<img src='https://github.com/wle8300/instagram-logo/blob/master/logo.svg' alt='instagram' height='75px'>](https://www.instagram.com/ig0r_or/) 
  
 ## Estatísticas
 <a href="https://github.com/Ig0r-or">
