@@ -32,3 +32,7 @@ Me chamo Igor, natural de Pouso Alegre, Minas Gerais, tenho atualmente 19 anos e
   <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ig0r-or&layout=compact&langs_count=7&theme=dracula"/>
   <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=Ig0r-or&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </a>
+
+<div align="center">
+  <img src="https://github.com/Ig0r-or/Ig0r-or/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+</div>
