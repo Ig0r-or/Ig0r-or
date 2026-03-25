@@ -1,6 +1,6 @@
 ### 👋, Olá Eu sou o Igor!!
 #### Sou um entusiasta, desenvolvedor.
-![Sou um entusiasta, desenvolvedor.](https://i.pinimg.com/736x/97/63/ab/9763ab0a9150039da17fc0461faab106.jpg)
+![Sou um entusiasta, desenvolvedor.]
 
 Me chamo Igor, natural de Pouso Alegre, Minas Gerais, tenho atualmente 19 anos e estou cursando Sistemas de Informação pela Univas e estagiando do Instituto Federal do Sul de Minas!
 
