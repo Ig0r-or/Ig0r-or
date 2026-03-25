@@ -29,7 +29,7 @@
 
 ## 🧊 Minhas Contribuições em 3D
 
-> **Nota:** Esta é a sua atividade do GitHub renderizada em um modelo 3D isométrico! 
+> **Nota:** Esta é a minha atividade do GitHub renderizada em um modelo 3D isométrico! 
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Ig0r-or/Ig0r-or/main/profile-3d-contrib/profile-night-view.svg" alt="3D GitHub Contribution Graph" />
