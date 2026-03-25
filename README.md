@@ -1,32 +1,57 @@
-### 👋, Olá Eu sou o Igor!!
-#### Sou um entusiasta, desenvolvedor.
-![Sou um entusiasta, desenvolvedor.]
+<h1 align="center">Olá, eu sou o Igor! 👋</h1>
 
-Me chamo Igor, natural de Pouso Alegre, Minas Gerais, tenho atualmente 19 anos e estou cursando Sistemas de Informação pela Univas e estagiando do Instituto Federal do Sul de Minas!
+<h3 align="center">Desenvolvedor e Entusiasta de Tecnologia 💻</h3>
 
-#### Abaixo, veja mais sobre mim e meu projetos, além de minhas linguagens favoritas!
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=435&lines=Sistemas+de+Informa%C3%A7%C3%A3o+-+Univ%C3%A1s;Estagi%C3%A1rio+no+IF+Sul+de+Minas;Desenvolvedor+Back-End+%2F+Front-End" alt="Typing SVG" />
+</p>
 
- ## Estudos 
-<div style="display: flex;">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="80px" width="120px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="80px" width="120px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="80px" width="120px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="80px" width="120px"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="80px" width="120px"/>
+---
+
+## 👨‍💻 Sobre mim
+
+- 📍 Natural de Pouso Alegre, Minas Gerais.
+- 🎓 Tenho 20 anos e estou cursando **Sistemas de Informação** pela [Univás].
+- 💼 Atualmente estagiando no **Instituto Federal do Sul de Minas**.
+- 🌱 Sempre em busca de novos desafios e aprofundando meus conhecimentos em desenvolvimento de software.
+
+---
+
+## 🚀 Tecnologias e Ferramentas
+
+Em vez de ícones separados, aqui usamos um gerador dinâmico que deixa tudo alinhado e com um visual mais polido:
+
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,java,mysql,vscode&perline=7" />
+  </a>
 </div>
- 
- ## Ferramentas
- <div style="display: flex;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" height="80px" width="120px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" height="80px" width="120px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" height="80px" width="120px"/>
+
+---
+
+## 🧊 Minhas Contribuições em 3D
+
+> **Nota:** Esta é a sua atividade do GitHub renderizada em um modelo 3D isométrico! 
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Ig0r-or/Ig0r-or/main/profile-3d-contrib/profile-night-view.svg" alt="3D GitHub Contribution Graph" />
 </div>
 
-## Social
- [<img src='https://github.com/wle8300/instagram-logo/blob/master/logo.svg' alt='instagram' height='75px'>](https://www.instagram.com/ig0r_or/) 
- 
-## Estatísticas
-<a href="https://github.com/Ig0r-or">
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
   <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ig0r-or&layout=compact&langs_count=7&theme=dracula"/>
   <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=Ig0r-or&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</a>
+</div>
+
+---
+
+## 📫 Como me encontrar
+
+<div align="center">
+  <a href="https://www.instagram.com/ig0r_or/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  </div>
