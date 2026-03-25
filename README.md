@@ -19,8 +19,6 @@
 
 ## 🚀 Tecnologias e Ferramentas
 
-Em vez de ícones separados, aqui usamos um gerador dinâmico que deixa tudo alinhado e com um visual mais polido:
-
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,java,mysql,vscode&perline=7" />
