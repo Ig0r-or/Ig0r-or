@@ -12,7 +12,7 @@
 
 - 📍 Natural de Pouso Alegre, Minas Gerais.
 - 🎓 Tenho 20 anos e estou cursando **Sistemas de Informação** pela [Univás].
-- 💼 Atualmente estagiando no **Instituto Federal do Sul de Minas**.
+- 💼 Atualmente estagiando no **Instituto Federal do Sul de Minas** na Assessoria Internacional.
 - 🌱 Sempre em busca de novos desafios e aprofundando meus conhecimentos em desenvolvimento de software.
 
 ---
@@ -51,6 +51,9 @@ Em vez de ícones separados, aqui usamos um gerador dinâmico que deixa tudo ali
 ## 📫 Como me encontrar
 
 <div align="center">
+  <a href="https://www.linkedin.com/in/igor-gabriel-silva-prado" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
   <a href="https://www.instagram.com/ig0r_or/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
