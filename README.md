@@ -27,16 +27,6 @@
 
 ---
 
-## 🧊 Minhas Contribuições em 3D
-
-> **Nota:** Esta é a minha atividade do GitHub renderizada em um modelo 3D isométrico! 
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Ig0r-or/Ig0r-or/main/profile-3d-contrib/profile-night-view.svg" alt="3D GitHub Contribution Graph" />
-</div>
-
----
-
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
@@ -52,7 +42,4 @@
   <a href="https://www.linkedin.com/in/igor-gabriel-silva-prado" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://www.instagram.com/ig0r_or/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-  </div>
+</div>
