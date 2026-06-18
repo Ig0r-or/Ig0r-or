@@ -3,7 +3,7 @@
 <h3 align="center">Desenvolvedor e Entusiasta de Tecnologia 💻</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=435&lines=Sistemas+de+Informa%C3%A7%C3%A3o+-+Univ%C3%A1s;Estagi%C3%A1rio+no+IF+Sul+de+Minas;Desenvolvedor+Back-End+%2F+Front-End" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2F80ED&center=true&vCenter=true&width=435&lines=Sistemas+de+Informa%C3%A7%C3%A3o+-+Univ%C3%A1s;Estagi%C3%A1rio+no+IFSULDEMINAS;Desenvolvedor+Back-End+%2F+Front-End" alt="Typing SVG" />
 </p>
 
 ---
