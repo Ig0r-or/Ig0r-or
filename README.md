@@ -27,13 +27,27 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 🔬 Principais Projetos
 
 <div align="center">
-  <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ig0r-or&layout=compact&langs_count=7&theme=dracula"/>
-  <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=Ig0r-or&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/Ig0r-or/Wind-Speed-Forecasting-Using-LiDAR-ERA5-and-Deep-Learning">
+    <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Ig0r-or&repo=Wind-Speed-Forecasting-Using-LiDAR-ERA5-and-Deep-Learning&theme=dracula&show_icons=true&title_color=2F80ED" />
+  </a>
+  
+  <a href="https://github.com/Ig0r-or/Assessoria-Internacional">
+    <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Ig0r-or&repo=Assessoria-Internacional&theme=dracula&show_icons=true&title_color=2F80ED" />
+  </a>
 </div>
 
+<br>
+
+<div align="center">
+  <a href="https://github.com/Ig0r-or/SEU-REPOSITORIO-MVC-JAVA-AQUI">
+    <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Ig0r-or&repo=SEU-REPOSITORIO-MVC-JAVA-AQUI&theme=dracula&show_icons=true&title_color=2F80ED" />
+  </a>
+</div>
+
+---
 ---
 
 ## 📫 Como me encontrar
