@@ -10,10 +10,13 @@
 
 ## 👨‍💻 Sobre mim
 
-- 📍 Natural de Pouso Alegre, Minas Gerais.
-- 🎓 Tenho 20 anos e estou cursando **Sistemas de Informação** pela [Univás].
-- 💼 Atualmente estagiando no **Instituto Federal do Sul de Minas** na Assessoria Internacional.
-- 🌱 Sempre em busca de novos desafios e aprofundando meus conhecimentos em desenvolvimento de software.
+> 📍 Natural de Pouso Alegre, Minas Gerais.
+
+> 🎓 Tenho 20 anos e estou cursando **Sistemas de Informação** pela [Univás].
+
+> 💼 Atualmente estagiando no **Instituto Federal do Sul de Minas** na Assessoria Internacional.
+
+> 🌱 Sempre em busca de novos desafios e aprofundando meus conhecimentos em desenvolvimento de software.
 
 ---
 
@@ -41,6 +44,18 @@
 > <br>
 > [![Acessar Repositório](https://img.shields.io/badge/Acessar_Código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ig0r-or/Assessoria-Internacional)
 ---
+
+## 📊 Estatísticas do GitHub
+
+
+
+<div align="center">
+
+  <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ig0r-or&layout=compact&langs_count=7&theme=dracula"/>
+
+  <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=Ig0r-or&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+</div>
 
 ## 📫 Como me encontrar
 
