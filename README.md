@@ -29,25 +29,17 @@
 
 ## 🔬 Principais Projetos
 
-<div align="center">
-  <a href="https://github.com/Ig0r-or/Wind-Speed-Forecasting-Using-LiDAR-ERA5-and-Deep-Learning">
-    <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Ig0r-or&repo=Wind-Speed-Forecasting-Using-LiDAR-ERA5-and-Deep-Learning&theme=dracula&show_icons=true&title_color=2F80ED" />
-  </a>
-  
-  <a href="https://github.com/Ig0r-or/Assessoria-Internacional">
-    <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Ig0r-or&repo=Assessoria-Internacional&theme=dracula&show_icons=true&title_color=2F80ED" />
-  </a>
-</div>
+**Previsão de Velocidade do Vento com Inteligência Artificial**
+> Pipeline computacional para fusão de dados LiDAR e ERA5 aplicados a previsão climática costeira.
+> <br>
+> [![Acessar Repositório](https://img.shields.io/badge/Acessar_Código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ig0r-or/Wind-Speed-Forecasting-Using-LiDAR-ERA5-and-Deep-Learning) [![Tecnologia](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](#)
 
 <br>
 
-<div align="center">
-  <a href="https://github.com/Ig0r-or/SEU-REPOSITORIO-MVC-JAVA-AQUI">
-    <img align="center" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Ig0r-or&repo=SEU-REPOSITORIO-MVC-JAVA-AQUI&theme=dracula&show_icons=true&title_color=2F80ED" />
-  </a>
-</div>
-
----
+**Oportunidades Internacionais - IFSULDEMINAS**
+> Plataforma de integração desenvolvida durante o estágio na Assessoria Internacional.
+> <br>
+> [![Acessar Repositório](https://img.shields.io/badge/Acessar_Código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ig0r-or/Assessoria-Internacional)
 ---
 
 ## 📫 Como me encontrar
