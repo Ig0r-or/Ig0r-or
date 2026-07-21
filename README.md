@@ -32,7 +32,7 @@
 
 ## 🔬 Principais Projetos
 
-**Previsão de Velocidade do Vento com Inteligência Artificial**
+**Iniciação Ciêntifica - Previsão de Velocidade do Vento com Inteligência Artificial**
 > Pipeline computacional para fusão de dados LiDAR e ERA5 aplicados a previsão climática costeira.
 > <br>
 > [![Acessar Repositório](https://img.shields.io/badge/Acessar_Código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ig0r-or/Wind-Speed-Forecasting-Using-LiDAR-ERA5-and-Deep-Learning) [![Tecnologia](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](#)
