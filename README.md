@@ -47,14 +47,9 @@
 
 ## 📊 Estatísticas do GitHub
 
-
-
 <div align="center">
-
-  <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ig0r-or&layout=compact&langs_count=7&theme=dracula"/>
-
-  <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=Ig0r-or&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-
+  <img height="160em" src="github-readme-stats-kra9q5u7v-ig0r-or.vercel.app/api/top-langs/?username=Ig0r-or&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas" />
+  <img height="160em" src="github-readme-stats-kra9q5u7v-ig0r-or.vercel.app/api?username=Ig0r-or&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
 </div>
 
 ## 📫 Como me encontrar
