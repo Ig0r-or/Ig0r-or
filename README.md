@@ -39,10 +39,10 @@
 
 <br>
 
-**Oportunidades Internacionais - IFSULDEMINAS**
-> Plataforma de integração desenvolvida durante o estágio na Assessoria Internacional.
+**Observatório do Mundo do Trabalho - IFSULDEMINAS**
+> Plataforma de integração e vizualização de dados utilizando técnicas de BI.
 > <br>
-> [![Acessar Repositório](https://img.shields.io/badge/Acessar_Código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ig0r-or/Assessoria-Internacional)
+> [![Acessar Repositório](https://img.shields.io/badge/Acessar_Código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ig0r-or/Observatorio-do-Mundo-do-Trabalho)
 ---
 
 ## 📊 Estatísticas do GitHub
