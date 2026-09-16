@@ -14,8 +14,6 @@
 
 > 🎓 Tenho 20 anos e estou cursando **Sistemas de Informação** pela [Univás].
 
-> 💼 Atualmente estagiando no **Instituto Federal do Sul de Minas** na Assessoria Internacional.
-
 > 🌱 Sempre em busca de novos desafios e aprofundando meus conhecimentos em desenvolvimento de software.
 
 ---
