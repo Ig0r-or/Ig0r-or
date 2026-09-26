@@ -43,13 +43,6 @@
 > [![Acessar Repositório](https://img.shields.io/badge/Acessar_Código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ig0r-or/Observatorio-do-Mundo-do-Trabalho)
 ---
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="160em" src="github-readme-stats-kra9q5u7v-ig0r-or.vercel.app/api/top-langs/?username=Ig0r-or&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas" />
-  <img height="160em" src="github-readme-stats-kra9q5u7v-ig0r-or.vercel.app/api?username=Ig0r-or&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-</div>
-
 ## 📫 Como me encontrar
 
 <div align="center">
