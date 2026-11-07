@@ -41,6 +41,13 @@
 > Plataforma de integração e vizualização de dados utilizando técnicas de BI.
 > <br>
 > [![Acessar Repositório](https://img.shields.io/badge/Acessar_Código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ig0r-or/Observatorio-do-Mundo-do-Trabalho)
+
+<br>
+
+**Conceitos de PLN e Embedding com LLm's**
+> Pipeline que utiliza de um RAG contextualizado para demostrar a aplicação do raciciocinio de uma PLN junto a integração de uma LLM.
+> <br>
+> [![Acessar Repositório](https://img.shields.io/badge/Acessar_Código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ig0r-or/PLN_LLM)[![Tecnologia](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](#)
 ---
 
 ## 📫 Como me encontrar
